@@ -1,0 +1,19 @@
+{
+  "name": "node_js_hall_booking",
+  "version": "1.0.0",
+  "description": "hall booking API express server ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/automationblog/node_js_hall_booking.git"
+  },
+  "author": "Alwin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/automationblog/node_js_hall_booking/issues"
+  },
+  "homepage": "https://github.com/automationblog/node_js_hall_booking#readme"
+}
